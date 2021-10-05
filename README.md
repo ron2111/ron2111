@@ -27,24 +27,24 @@
 
 <div align="center">
   
-<img src="https://github.com/ron2111/ron2111/blob/master/logos/java.png?raw=true" height="60" width="60">
-<img src="https://github.com/ron2111/ron2111/blob/master/logos/c.png?raw=true" height="60" width="60">
-<img src="https://github.com/ron2111/ron2111/blob/master/logos/c++.png?raw=true" height="60" width="60">
-<img src="https://github.com/ron2111/ron2111/blob/master/logos/python.png?raw=true" height="60" width="60">
-<img src="https://github.com/ron2111/ron2111/blob/master/logos/javascript.png?raw=true" height="60" width="60">
-<img src="https://github.com/ron2111/ron2111/blob/master/logos/html.png?raw=true" height="60" width="60">
-<img src="https://github.com/ron2111/ron2111/blob/master/logos/css.png?raw=true" height="60" width="60">
-<img src="https://github.com/ron2111/ron2111/blob/master/logos/kotlin.png?raw=true" height="60" width="60">
+<img src="https://github.com/ron2111/ron2111/blob/main/logos/java.png" height="60" width="60">
+<img src="https://github.com/ron2111/ron2111/blob/main/logos/c.png" height="60" width="60">
+<img src="https://github.com/ron2111/ron2111/blob/main/logos/c++.png" height="60" width="60">
+<img src="https://github.com/ron2111/ron2111/blob/main/logos/python.png" height="60" width="60">
+<img src="https://github.com/ron2111/ron2111/blob/main/logos/javascript.png" height="60" width="60">
+<img src="https://github.com/ron2111/ron2111/blob/main/logos/html.png" height="60" width="60">
+<img src="https://github.com/ron2111/ron2111/blob/main/logos/css.png" height="60" width="60">
+<img src="https://github.com/ron2111/ron2111/blob/main/logos/kotlin.png" height="60" width="60">
 
 <br>
 
-<img src="https://github.com/ron2111/ron2111/blob/master/logos/android.png?raw=true" height="60" width="60">
-<img src="https://github.com/ron2111/ron2111/blob/master/logos/postman.png?raw=true" height="60" width="60">
-<img src="https://github.com/ron2111/ron2111/blob/master/logos/sql.png?raw=true" height="60" width="60">
-<img src="https://github.com/ron2111/ron2111/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
-<img src="https://github.com/ron2111/ron2111/blob/master/logos/azure.png?raw=true" height="60" width="60">
-<img src="https://github.com/ron2111/ron2111/blob/master/logos/gcp.png?raw=true" height="60" width="60">
-<img src="https://github.com/ron2111/ron2111/blob/master/logos/git.png?raw=true" height="60" width="60">
+<img src="https://github.com/ron2111/ron2111/blob/main/logos/gcp.png" height="50" width="75">
+<img src="https://github.com/ron2111/ron2111/blob/main/logos/android.png" height="60" width="60">
+<img src="https://github.com/ron2111/ron2111/blob/main/logos/postman.png" height="50" width="70">
+<img src="https://github.com/ron2111/ron2111/blob/main/logos/sql.png" height="60" width="60">
+<img src="https://github.com/ron2111/ron2111/blob/main/logos/bootstrap.png" height="60" width="60">
+<img src="https://github.com/ron2111/ron2111/blob/main/logos/git.png" height="60" width="60">
+<img src="https://github.com/ron2111/ron2111/blob/main/logos/azure.png" height="55" width="75">
 
 
 </div>
