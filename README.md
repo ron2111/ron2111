@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm an aspiring Full Stack Developer from India ❤</h3>
   
- I'm passionate about 📊 Full-Stack Development & ☁ Cloud Computing. I like solving real-world problems and improving efficiency and performance. Strong Advocate for :cloud: Cloud computing, 📜 open source,  🚀 DevOps, Innovation and Automation 🤖 
+ I'm passionate about 📊 Full-Stack Development & DevOps Engineering. I like solving real-world problems and improving efficiency and performance. Strong Advocate for ☁ Cloud computing, 📜 open source,  🚀 DevOps, Innovation and Automation 🤖 
 
 
 ![age](https://img.shields.io/badge/age-18-blue)
@@ -53,11 +53,17 @@
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=ron2111&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=ron2111&show_icons=true&theme=dark" width="48%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ron2111&theme=dark" width="45%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ron2111&theme=dark" width="48%" ><br>
 
-<br>
+## 🥇Top Projects(Open for Contributions)<br>
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/ron2111) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/ron2111)
+|      Project📃   |     Stars🌟   | Forks🍴  | Issues🐛  | Open PRs🔔  | Closed PRs🔥  |
+|-------------|-------------------|---|---|---|---|
+| [**Awesome Projects Collection**](https://github.com/ron2111/Awesome-Projects-Collection) | [![GitHub Stars](https://img.shields.io/github/stars/ron2111/Awesome-Projects-Collection?style=flat-square&labelColor=343b41)](https://github.com/ron2111/Awesome-Projects-Collection/stars) | [![GitHub Forks](https://img.shields.io/github/forks/ron2111/Awesome-Projects-Collection?style=flat-square&labelColor=343b41)](https://github.com/ron2111/Awesome-Projects-Collection/forks) | [![GitHub Issues](https://img.shields.io/github/issues/ron2111/Awesome-Projects-Collection?style=flat-square)](https://github.com/ron2111/Awesome-Projects-Collection/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/ron2111/Awesome-Projects-Collection?style=flat&logo=github)](https://github.com/ron2111/Awesome-Projects-Collection/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/ron2111/Awesome-Projects-Collection?style=flat&color=critical&logo=github)](https://github.com/ron2111/Awesome-Projects-Collection/pulls?q=is%3Apr+is%3Aclosed) |
+
 
 <div align="center">
 
