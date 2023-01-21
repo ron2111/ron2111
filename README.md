@@ -8,15 +8,15 @@
  I'm passionate about 📊 Full-Stack Development & DevOps Engineering. I like solving real-world problems and improving efficiency and performance. Strong Advocate for ☁ Cloud computing, 📜 open source,  🚀 DevOps, Innovation and Automation 🤖 
 
 
-![age](https://img.shields.io/badge/age-18-blue)
+![age](https://img.shields.io/badge/age-20-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Gurugram-3c9)
 
 <img width="50%" align="right" alt="Github Image" src= "https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning Web Development and practising DSA.
+- 🌱 I’m currently exporing the Web3 Domain and practising DSA.
 - 👯 I’m looking to collaborate on Basic Web Dev & Pair programming.
-- 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/rohan-sharma-3a6b13203/) 
+- 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/rohan-sharma21/) 
 - 😎 Beta Microsoft Learn Student Ambassador
 - 🤓 [Microsoft AZ-900 Certified](blob:https://mcptnc.microsoft.com/89c8e037-bd31-4d89-b102-d531dc1fe946)
 - 😄 Pronouns: he/him/his
