@@ -15,7 +15,7 @@
 <img width="50%" align="right" alt="Github Image" src= "https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 I’m currently exporing the Web3 Domain and practising DSA.
-- 👯 I’m looking to collaborate on Basic Web Dev & Pair programming.
+- 👯 I’m looking to collaborate on Web Dev Projects & Pair programming.
 - 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/rohan-sharma21/) 
 - 😎 Beta Microsoft Learn Student Ambassador
 - 🤓 [Microsoft AZ-900 Certified](blob:https://mcptnc.microsoft.com/89c8e037-bd31-4d89-b102-d531dc1fe946)
