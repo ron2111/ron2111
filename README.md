@@ -14,16 +14,16 @@
 
 <img width="50%" align="right" alt="Github Image" src= "https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently exporing the Web3 Domain and practising DSA.
-- 👯 I’m looking to collaborate on Web Dev Projects & Pair programming.
+- 🌟 Currently focused on LLM models, DevOps, and managing full stack, backend, frontend, and microservices at GoodSpace AI.
+- 💻 Proficient in AI, ML, MERN stack, Python, and DevOps.
+- 🤝 Eager to collaborate on End-to-End projects, host Tech Events, and explore new opportunities.
 - 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/rohan-sharma21/) 
 - 😎 Beta Microsoft Learn Student Ambassador
 - 🤓 [Microsoft AZ-900 Certified](blob:https://mcptnc.microsoft.com/89c8e037-bd31-4d89-b102-d531dc1fe946)
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Jack of all trades , Master of None ! 
+- ⚡ Fun fact: Jack of all trades, Master of None!
 <br />
 
-### Checkout my [Portfolio](https://rohan21.tech) website🙌
+### Checkout my [Portfolio](https://devrohan.vercel.app) website🙌
 
 ## 👨‍💻 Languages and Tools
 
