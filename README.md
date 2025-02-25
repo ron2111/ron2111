@@ -8,7 +8,7 @@
  I'm passionate about 📊 Full-Stack Development & DevOps Engineering. I like solving real-world problems and improving efficiency and performance. Strong Advocate for ☁ Cloud computing, 📜 open source,  🚀 DevOps, Innovation and Automation 🤖 
 
 
-![age](https://img.shields.io/badge/age-20-blue)
+![age](https://img.shields.io/badge/age-22-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Gurugram-3c9)
 
@@ -20,7 +20,7 @@
 - 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/rohan-sharma21/) 
 - 😎 Beta Microsoft Learn Student Ambassador
 - 🤓 [Microsoft AZ-900 Certified](blob:https://mcptnc.microsoft.com/89c8e037-bd31-4d89-b102-d531dc1fe946)
-- ⚡ Fun fact: Jack of all trades, Master of None!
+- ⚡ Fun fact: Jack of all trades🚀!
 <br />
 
 ### Checkout my [Portfolio](https://devrohan.vercel.app) website🙌
