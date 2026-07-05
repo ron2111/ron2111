@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="header" width="100%" />
+
 # Rohan Sharma
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+AI+Engineer;Backend-heavy+AI+Systems;LLM+Infrastructure+and+Optimization;System+Design+%7C+HLD+%7C+LLD;Go+%2B+Distributed+Systems)](https://git.io/typing-svg)
