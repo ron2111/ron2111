@@ -9,7 +9,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-devrohan.vercel.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://devrohan.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-sharma21/)
 [![X](https://img.shields.io/badge/X-2111_rohan-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/2111_rohan)
-[![GitHub followers](https://img.shields.io/github/followers/ron2111?style=for-the-badge&logo=github&label=Followers)](https://github.com/ron2111?tab=followers)
 
 </div>
 
