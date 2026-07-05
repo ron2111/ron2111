@@ -14,10 +14,10 @@
 
 ## About Me
 
-I am a backend-focused Full Stack AI Engineer building production-grade AI systems, LLM applications, and scalable backend services. My core interests are Go, system design, distributed systems, performance optimization, API design, RAG pipelines, AI agents, and practical LLM infrastructure.
+I am a backend-focused Full Stack AI Engineer building production-grade AI systems, scalable voice AI agents, LLM applications, and high-performance backend services. My core interests are Go, system design, distributed systems, performance optimization, API design, RAG pipelines, AI agents, and practical LLM infrastructure.
 
 - I design systems from HLD to LLD: service boundaries, data models, async flows, reliability, scaling, and trade-offs.
-- I build AI products using LLMs, RAG, agents, tokenization, prompt/tool orchestration, and evaluation workflows.
+- I build AI products using LLMs, voice agents, RAG, tokenization, prompt/tool orchestration, and evaluation workflows.
 - I write backend services in Go with focus on latency, cost, observability, maintainability, and clean architecture.
 - I work across stacks when needed, but my strongest focus is backend architecture, AI infrastructure, and optimization.
 
@@ -72,6 +72,7 @@ I am a backend-focused Full Stack AI Engineer building production-grade AI syste
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -83,6 +84,7 @@ I am a backend-focused Full Stack AI Engineer building production-grade AI syste
 ![Kuma](https://img.shields.io/badge/Kuma-290B53?style=for-the-badge&logo=kuma&logoColor=white)
 ![Envoy Proxy](https://img.shields.io/badge/Envoy%20Proxy-AC6199?style=for-the-badge&logo=envoyproxy&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
