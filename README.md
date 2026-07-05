@@ -4,7 +4,7 @@
 
 # Rohan Sharma
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+AI+Engineer;Backend-heavy+AI+Systems;LLM+Infrastructure+and+Optimization;System+Design+%7C+HLD+%7C+LLD;Go+%2B+Distributed+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend-focused+Full+Stack+AI+Engineer;Golang+Backend+Systems;LLM+Apps+%7C+RAG+%7C+AI+Agents;System+Design+%7C+HLD+%7C+LLD;Performance+and+Cost+Optimization)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-devrohan.vercel.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://devrohan.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-sharma21/)
@@ -12,20 +12,21 @@
 
 </div>
 
-## About
+## About Me
 
-I build backend-heavy AI systems with a strong focus on system design, performance, and practical LLM engineering. I like turning ambiguous product problems into reliable services, clean APIs, and optimized data/AI workflows.
+I am a backend-focused Full Stack AI Engineer building production-grade AI systems, LLM applications, and scalable backend services. My core interests are Golang, system design, distributed systems, performance optimization, API design, RAG pipelines, AI agents, and practical LLM infrastructure.
 
-- Designing scalable systems from HLD to LLD: service boundaries, data models, async flows, reliability, and trade-offs.
-- Building AI products with LLMs, agents, RAG pipelines, tokenization, prompt/tool orchestration, and evaluation loops.
-- Writing production-focused Go and backend services with attention to latency, cost, observability, and maintainability.
-- Comfortable across the stack when needed, but most interested in backend architecture, AI infrastructure, and optimization.
+- I design systems from HLD to LLD: service boundaries, data models, async flows, reliability, scaling, and trade-offs.
+- I build AI products using LLMs, RAG, agents, tokenization, prompt/tool orchestration, and evaluation workflows.
+- I write backend services in Go with focus on latency, cost, observability, maintainability, and clean architecture.
+- I work across stacks when needed, but my strongest focus is backend architecture, AI infrastructure, and optimization.
 
-## Current Focus
+## What I Build
 
-- Deepening Go, distributed systems, and high-performance backend engineering.
-- Building LLM tooling and infra that makes AI applications faster, cheaper, and easier to reason about.
-- Practicing system design through real projects, architecture breakdowns, and low-level implementation details.
+- Backend platforms, APIs, microservices, queues, workers, and data-heavy systems.
+- LLM-powered applications with RAG, agentic workflows, embeddings, retrieval, and model integrations.
+- Developer tools and AI infrastructure that improve speed, cost, reliability, and engineering productivity.
+- System design breakdowns that connect architecture decisions with real implementation details.
 
 ## Tech I Use
 
@@ -34,6 +35,7 @@ I build backend-heavy AI systems with a strong focus on system design, performan
 ### Core
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -62,22 +64,12 @@ I build backend-heavy AI systems with a strong focus on system design, performan
 
 ## Featured Work
 
-<div align="center">
-
-<a href="https://github.com/ron2111/omnitoken">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=ron2111&repo=omnitoken&theme=tokyonight&hide_border=true" alt="omnitoken" />
-</a>
-<a href="https://github.com/ron2111/Awesome-Projects-Collection">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=ron2111&repo=Awesome-Projects-Collection&theme=tokyonight&hide_border=true" alt="Awesome Projects Collection" />
-</a>
-<a href="https://github.com/ron2111/CodePal-Realtime_Editor">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=ron2111&repo=CodePal-Realtime_Editor&theme=tokyonight&hide_border=true" alt="CodePal Realtime Editor" />
-</a>
-<a href="https://github.com/ron2111/Sentiment-Analysis-NLP-Bot">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=ron2111&repo=Sentiment-Analysis-NLP-Bot&theme=tokyonight&hide_border=true" alt="Sentiment Analysis NLP Bot" />
-</a>
-
-</div>
+| Project | Focus | Tech / Keywords |
+| --- | --- | --- |
+| [omnitoken](https://github.com/ron2111/omnitoken) | Pure-Go tokenizer and token counter for OpenAI BPE, WordPiece, SentencePiece, Gemini, Llama, Mistral, and Hugging Face adapters. | Go, Golang, LLM infrastructure, tokenization, performance |
+| [Awesome Projects Collection](https://github.com/ron2111/Awesome-Projects-Collection) | Curated open-source project collection for learning, building, and contribution. | Open source, project ideas, community |
+| [CodePal Realtime Editor](https://github.com/ron2111/CodePal-Realtime_Editor) | Collaborative realtime coding editor. | Realtime systems, collaboration, sockets |
+| [Sentiment Analysis NLP Bot](https://github.com/ron2111/Sentiment-Analysis-NLP-Bot) | NLP chatbot with sentiment analysis workflow. | NLP, chatbot, AI, Python |
 
 ## GitHub Snapshot
 
@@ -88,24 +80,12 @@ I build backend-heavy AI systems with a strong focus on system design, performan
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ron2111&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top languages" />
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ron2111&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## Activity
-
-<div align="center">
-
-[![Rohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ron2111&theme=tokyo-night&hide_border=true)](https://github.com/ron2111)
-
-![Profile views](https://komarev.com/ghpvc/?username=ron2111&style=for-the-badge&color=58A6FF)
-
 </div>
 
 ---
 
 <div align="center">
 
-Building useful AI systems, one well-designed service at a time.
+Building useful AI systems, one well-designed backend service at a time.
 
 </div>
