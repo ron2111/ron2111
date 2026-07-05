@@ -93,9 +93,9 @@ I am a backend-focused Full Stack AI Engineer building production-grade AI syste
 | Project | Focus | Stack / Keywords | Stars | Forks |
 | --- | --- | --- | --- | --- |
 | [omnitoken](https://github.com/ron2111/omnitoken) | Pure-Go tokenizer and token counter for OpenAI BPE, WordPiece, SentencePiece, Gemini, Llama, Mistral, and Hugging Face adapters. | Go, LLM infrastructure, tokenization, performance | ![stars](https://img.shields.io/github/stars/ron2111/omnitoken?style=flat-square&label=stars) | ![forks](https://img.shields.io/github/forks/ron2111/omnitoken?style=flat-square&label=forks) |
+| [AI Multi-Agent Calendar Scheduler](https://github.com/ron2111/multi-agent-ai-email-calender-scheduler) | Multi-agent scheduling system that parses email/API requests, coordinates Gmail and Google Calendar, resolves conflicts, and learns from feedback. | Python, FastAPI, Ray, GPT-4, Gmail API, Google Calendar API | ![stars](https://img.shields.io/github/stars/ron2111/multi-agent-ai-email-calender-scheduler?style=flat-square&label=stars) | ![forks](https://img.shields.io/github/forks/ron2111/multi-agent-ai-email-calender-scheduler?style=flat-square&label=forks) |
+| [crawlPro](https://github.com/ron2111/crawlPro) | Async e-commerce product URL crawler with rate limiting, retries, domain-aware URL discovery, and scalable crawling architecture. | Python, aiohttp, async I/O, crawling, optimization | ![stars](https://img.shields.io/github/stars/ron2111/crawlPro?style=flat-square&label=stars) | ![forks](https://img.shields.io/github/forks/ron2111/crawlPro?style=flat-square&label=forks) |
 | [Awesome Projects Collection](https://github.com/ron2111/Awesome-Projects-Collection) | Curated open-source project collection for learning, building, and contribution. | Open source, project ideas, community | ![stars](https://img.shields.io/github/stars/ron2111/Awesome-Projects-Collection?style=flat-square&label=stars) | ![forks](https://img.shields.io/github/forks/ron2111/Awesome-Projects-Collection?style=flat-square&label=forks) |
-| [CodePal Realtime Editor](https://github.com/ron2111/CodePal-Realtime_Editor) | Collaborative realtime coding editor. | Realtime systems, collaboration, sockets | ![stars](https://img.shields.io/github/stars/ron2111/CodePal-Realtime_Editor?style=flat-square&label=stars) | ![forks](https://img.shields.io/github/forks/ron2111/CodePal-Realtime_Editor?style=flat-square&label=forks) |
-| [Sentiment Analysis NLP Bot](https://github.com/ron2111/Sentiment-Analysis-NLP-Bot) | NLP chatbot with sentiment analysis workflow. | NLP, chatbot, AI, Python | ![stars](https://img.shields.io/github/stars/ron2111/Sentiment-Analysis-NLP-Bot?style=flat-square&label=stars) | ![forks](https://img.shields.io/github/forks/ron2111/Sentiment-Analysis-NLP-Bot?style=flat-square&label=forks) |
 
 ## GitHub Snapshot
 
@@ -103,17 +103,7 @@ I am a backend-focused Full Stack AI Engineer building production-grade AI syste
 
 <img height="165" src="https://streak-stats.demolab.com?user=ron2111&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-</div>
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ron2111/ron2111/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ron2111/ron2111/blob/output/github-contribution-grid-snake.svg?raw=true" />
-  <img alt="github contribution grid snake animation" src="https://github.com/ron2111/ron2111/blob/output/github-contribution-grid-snake.svg?raw=true" />
-</picture>
+<img src="./assets/peak-activity.svg" alt="Peak GitHub activity: October 2024 with 382 contributions" width="100%" />
 
 </div>
 

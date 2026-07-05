@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" role="img" aria-labelledby="title desc">
+  <title id="title">Peak GitHub activity</title>
+  <desc id="desc">October 2024 was the strongest public GitHub activity period: 382 contributions, 1789 contributions in 2024, and a 70 contribution peak day on 2024-10-11.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="52%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#0b1120" />
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="52%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#22c55e" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="898" height="188" rx="18" fill="url(#bg)" stroke="#1f2937" stroke-width="2" />
+  <circle cx="760" cy="-25" r="150" fill="#2563eb" opacity="0.12" />
+  <circle cx="120" cy="200" r="140" fill="#22c55e" opacity="0.10" />
+  <text x="38" y="44" fill="#93c5fd" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" font-weight="700" letter-spacing="1.5">PEAK GITHUB ACTIVITY</text>
+  <text x="38" y="82" fill="#f8fafc" font-family="Segoe UI, Ubuntu, sans-serif" font-size="32" font-weight="800">October 2024</text>
+  <text x="38" y="112" fill="#cbd5e1" font-family="Segoe UI, Ubuntu, sans-serif" font-size="16">Strongest public contribution period across recent years.</text>
+  <g transform="translate(38 132)">
+    <rect x="0" y="0" width="520" height="12" rx="6" fill="#1e293b" />
+    <rect x="0" y="0" width="382" height="12" rx="6" fill="url(#bar)" filter="url(#glow)" />
+    <text x="0" y="36" fill="#94a3b8" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">382 contributions in the month</text>
+  </g>
+  <g transform="translate(600 48)">
+    <rect x="0" y="0" width="116" height="94" rx="14" fill="#111827" stroke="#334155" />
+    <text x="58" y="38" text-anchor="middle" fill="#22c55e" font-family="Segoe UI, Ubuntu, sans-serif" font-size="30" font-weight="800">1,789</text>
+    <text x="58" y="64" text-anchor="middle" fill="#cbd5e1" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">2024 total</text>
+  </g>
+  <g transform="translate(742 48)">
+    <rect x="0" y="0" width="116" height="94" rx="14" fill="#111827" stroke="#334155" />
+    <text x="58" y="38" text-anchor="middle" fill="#60a5fa" font-family="Segoe UI, Ubuntu, sans-serif" font-size="30" font-weight="800">70</text>
+    <text x="58" y="64" text-anchor="middle" fill="#cbd5e1" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">peak day</text>
+    <text x="58" y="82" text-anchor="middle" fill="#64748b" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11">2024-10-11</text>
+  </g>
+</svg>
