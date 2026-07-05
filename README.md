@@ -1,89 +1,110 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-
-<h1 align="center"> Hello, I'm Rohan Sharma ! </h1>
-<!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> -->
-
-<h3 align="center">I'm an aspiring Full Stack Developer from India ❤</h3>
-  
- I'm passionate about 📊 Full-Stack Development & DevOps Engineering. I like solving real-world problems and improving efficiency and performance. Strong Advocate for ☁ Cloud computing, 📜 open source,  🚀 DevOps, Innovation and Automation 🤖 
-
-
-![age](https://img.shields.io/badge/age-22-blue)
-![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/living-Gurugram-3c9)
-
-<img width="50%" align="right" alt="Github Image" src= "https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🌟 Currently focused on LLM models, DevOps, and managing full stack, backend, frontend, and microservices at GoodSpace AI.
-- 💻 Proficient in AI, ML, MERN stack, Python, and DevOps.
-- 🤝 Eager to collaborate on End-to-End projects, host Tech Events, and explore new opportunities.
-- 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/rohan-sharma21/) 
-- 😎 Beta Microsoft Learn Student Ambassador
-- 🤓 [Microsoft AZ-900 Certified](blob:https://mcptnc.microsoft.com/89c8e037-bd31-4d89-b102-d531dc1fe946)
-- ⚡ Fun fact: Jack of all trades🚀!
-<br />
-
-### Checkout my [Portfolio](https://devrohan.vercel.app) website🙌
-
-## 👨‍💻 Languages and Tools
-
 <div align="center">
-  
-<img src="https://github.com/ron2111/ron2111/blob/main/logos/java.png" height="60" width="60">
-<img src="https://github.com/ron2111/ron2111/blob/main/logos/c.png" height="60" width="60">
-<img src="https://github.com/ron2111/ron2111/blob/main/logos/c++.png" height="60" width="60">
-<img src="https://github.com/ron2111/ron2111/blob/main/logos/python.png" height="60" width="60">
-<img src="https://github.com/ron2111/ron2111/blob/main/logos/javascript.png" height="60" width="60">
-<img src="https://github.com/ron2111/ron2111/blob/main/logos/html.png" height="60" width="60">
-<img src="https://github.com/ron2111/ron2111/blob/main/logos/css.png" height="60" width="60">
-<img src="https://github.com/ron2111/ron2111/blob/main/logos/kotlin.png" height="60" width="60">
 
-<br>
+# Rohan Sharma
 
-<img src="https://github.com/ron2111/ron2111/blob/main/logos/gcp.png" height="50" width="75">
-<img src="https://github.com/ron2111/ron2111/blob/main/logos/android.png" height="60" width="60">
-<img src="https://github.com/ron2111/ron2111/blob/main/logos/postman.png" height="50" width="70">
-<img src="https://github.com/ron2111/ron2111/blob/main/logos/sql.png" height="60" width="60">
-<img src="https://github.com/ron2111/ron2111/blob/main/logos/bootstrap.png" height="60" width="60">
-<img src="https://github.com/ron2111/ron2111/blob/main/logos/git.png" height="60" width="60">
-<img src="https://github.com/ron2111/ron2111/blob/main/logos/azure.png" height="55" width="75">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+AI+Engineer;Backend-heavy+AI+Systems;LLM+Infrastructure+and+Optimization;System+Design+%7C+HLD+%7C+LLD;Go+%2B+Distributed+Systems)](https://git.io/typing-svg)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-devrohan.vercel.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://devrohan.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-sharma21/)
+[![X](https://img.shields.io/badge/X-2111_rohan-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/2111_rohan)
+[![GitHub followers](https://img.shields.io/github/followers/ron2111?style=for-the-badge&logo=github&label=Followers)](https://github.com/ron2111?tab=followers)
 
 </div>
 
-<br >
+## About
 
-## 🏆 Github Status
+I build backend-heavy AI systems with a strong focus on system design, performance, and practical LLM engineering. I like turning ambiguous product problems into reliable services, clean APIs, and optimized data/AI workflows.
 
-<img  src="https://github-readme-stats.vercel.app/api?username=ron2111&show_icons=true&theme=dark" width="48%" align="right" >
+- Designing scalable systems from HLD to LLD: service boundaries, data models, async flows, reliability, and trade-offs.
+- Building AI products with LLMs, agents, RAG pipelines, tokenization, prompt/tool orchestration, and evaluation loops.
+- Writing production-focused Go and backend services with attention to latency, cost, observability, and maintainability.
+- Comfortable across the stack when needed, but most interested in backend architecture, AI infrastructure, and optimization.
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ron2111&theme=dark" width="48%" ><br>
+## Current Focus
 
-## 🥇Top Projects(Open for Contributions)<br>
+- Deepening Go, distributed systems, and high-performance backend engineering.
+- Building LLM tooling and infra that makes AI applications faster, cheaper, and easier to reason about.
+- Practicing system design through real projects, architecture breakdowns, and low-level implementation details.
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/ron2111) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/ron2111)
-|      Project📃   |     Stars🌟   | Forks🍴  | Issues🐛  | Open PRs🔔  | 
-|-------------|-------------------|---|---|---|
-| [**Awesome Projects Collection**](https://github.com/ron2111/Awesome-Projects-Collection) | [![GitHub Stars](https://img.shields.io/github/stars/ron2111/Awesome-Projects-Collection?style=flat-square&labelColor=343b41)](https://github.com/ron2111/Awesome-Projects-Collection/stars) | [![GitHub Forks](https://img.shields.io/github/forks/ron2111/Awesome-Projects-Collection?style=flat-square&labelColor=343b41)](https://github.com/ron2111/Awesome-Projects-Collection/forks) | [![GitHub Issues](https://img.shields.io/github/issues/ron2111/Awesome-Projects-Collection?style=flat-square)](https://github.com/ron2111/Awesome-Projects-Collection/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/ron2111/Awesome-Projects-Collection?style=flat&logo=github)](https://github.com/ron2111/Awesome-Projects-Collection/pulls) | 
-| [**CodePal-Realtime Code Editor**](https://github.com/ron2111/CodePal-Realtime_Editor) | [![GitHub Stars](https://img.shields.io/github/stars/ron2111/CodePal-Realtime_Editor?style=flat-square&labelColor=343b41)](https://github.com/ron2111/CodePal-Realtime_Editor/stars) | [![GitHub Forks](https://img.shields.io/github/forks/ron2111/CodePal-Realtime_Editor?style=flat-square&labelColor=343b41)](https://github.com/ron2111/CodePal-Realtime_Editor/forks) | [![GitHub Issues](https://img.shields.io/github/issues/ron2111/CodePal-Realtime_Editor?style=flat-square)](https://github.com/ron2111/CodePal-Realtime_Editor/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/ron2111/CodePal-Realtime_Editor?style=flat&logo=github)](https://github.com/ron2111/CodePal-Realtime_Editor/pulls) | 
-| [**NLP Chatbot with Sentiment Analysis**](https://github.com/ron2111/Sentiment-Analysis-NLP-Bot) | [![GitHub Stars](https://img.shields.io/github/stars/ron2111/Sentiment-Analysis-NLP-Bot?style=flat-square&labelColor=343b41)](https://github.com/ron2111/Sentiment-Analysis-NLP-Bot/stars) | [![GitHub Forks](https://img.shields.io/github/forks/ron2111/Sentiment-Analysis-NLP-Bot?style=flat-square&labelColor=343b41)](https://github.com/ron2111/Sentiment-Analysis-NLP-Bot/forks) | [![GitHub Issues](https://img.shields.io/github/issues/ron2111/Sentiment-Analysis-NLP-Bot?style=flat-square)](https://github.com/ron2111/Sentiment-Analysis-NLP-Bot/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/ron2111/Sentiment-Analysis-NLP-Bot?style=flat&logo=github)](https://github.com/ron2111/Sentiment-Analysis-NLP-Bot/pulls) | 
+## Tech I Use
 
 <div align="center">
 
-<br>
+### Core
 
-## Show some ❤️ by starring ⭐ some of the repositories!
-<br>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rohan-sharma-3a6b13203/)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rons2111/)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100006200592276)
+### AI and Systems
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ron2111.ron2111)
+![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B5563?style=for-the-badge)
+![Agents](https://img.shields.io/badge/AI%20Agents-1F2937?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-0F172A?style=for-the-badge)
+![Optimization](https://img.shields.io/badge/Optimization-2563EB?style=for-the-badge)
+
+### Backend and Infra
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 </div>
 
+## Featured Work
 
+<div align="center">
 
+<a href="https://github.com/ron2111/omnitoken">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=ron2111&repo=omnitoken&theme=tokyonight&hide_border=true" alt="omnitoken" />
+</a>
+<a href="https://github.com/ron2111/Awesome-Projects-Collection">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=ron2111&repo=Awesome-Projects-Collection&theme=tokyonight&hide_border=true" alt="Awesome Projects Collection" />
+</a>
+<a href="https://github.com/ron2111/CodePal-Realtime_Editor">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=ron2111&repo=CodePal-Realtime_Editor&theme=tokyonight&hide_border=true" alt="CodePal Realtime Editor" />
+</a>
+<a href="https://github.com/ron2111/Sentiment-Analysis-NLP-Bot">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=ron2111&repo=Sentiment-Analysis-NLP-Bot&theme=tokyonight&hide_border=true" alt="Sentiment Analysis NLP Bot" />
+</a>
 
+</div>
 
+## GitHub Snapshot
 
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ron2111&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=ron2111&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ron2111&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top languages" />
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ron2111&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## Activity
+
+<div align="center">
+
+[![Rohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ron2111&theme=tokyo-night&hide_border=true)](https://github.com/ron2111)
+
+![Profile views](https://komarev.com/ghpvc/?username=ron2111&style=for-the-badge&color=58A6FF)
+
+</div>
+
+---
+
+<div align="center">
+
+Building useful AI systems, one well-designed service at a time.
+
+</div>
